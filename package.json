@@ -1,0 +1,5 @@
+"scripts": {
+  "dev": "concurrently \"npm run dev:front\" \"npm run dev:back\"",
+  "dev:front": "cd ReactJS && npm run dev",
+  "dev:back": "cd API && npm run dev"
+}
