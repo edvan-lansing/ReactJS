@@ -7,15 +7,12 @@ O projeto simula um ambiente real de trabalho, onde frontend e backend evoluem j
 ---
 
 ## 📁 Estrutura do Projeto
-
-├── ReactJS/ # Frontend (React)
-├── API/ # Backend (Express + Prisma)
-├── package.json # Scripts centralizados
+```
+├── ReactJS/        # Frontend (React)
+├── API/            # Backend (Express + Prisma)
+├── package.json    # Scripts centralizados
 └── README.md
-
-
----
-
+```
 ## 🚀 Tecnologias Utilizadas
 
 ### Frontend
